@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_extras.metric_cards import style_metric_cards
+# from streamlit_extras.metric_cards import style_metric_cards
 
 # Set page configuration
 st.set_page_config(
